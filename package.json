@@ -1,11 +1,11 @@
 {
-  "name": "onload",
+  "name": "hackcovit",
   "version": "1.0.0",
   "description": "",
   "main": "test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node test2.js"
+    "start": "node test2.js"
   },
   "author": "",
   "license": "ISC",
@@ -13,5 +13,14 @@
     "express": "^4.17.1",
     "peer": "^0.2.10",
     "socket.io": "^2.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibhanu/HackCoVIT.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ibhanu/HackCoVIT/issues"
+  },
+  "homepage": "https://github.com/ibhanu/HackCoVIT#readme",
+  "devDependencies": {}
 }
